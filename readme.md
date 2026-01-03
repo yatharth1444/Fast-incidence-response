@@ -23,7 +23,7 @@
 
 ## Introduction
 
-**Incident Response Automation (IRA)** is a powerful tool designed to help security teams **automate the containment of compromised systems** during an active security incident. By leveraging **firewall rules** (`iptables` or `nftables`), the script isolates affected machines to prevent further spread of a cyber attack.
+**Fast Incident Response (FIR)** is a powerful tool designed to help security teams **automate the containment of compromised systems** during an active security incident. By leveraging **firewall rules** (`iptables` or `nftables`), the script isolates affected machines to prevent further spread of a cyber attack.
 
 This script is ideal for:
 - **Security professionals** handling active threats.

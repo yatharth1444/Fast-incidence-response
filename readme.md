@@ -1,9 +1,7 @@
 # Incident Response Automation (IRA)
 
-**Author:** iwmvictor  
-**Website:** [iwmvictor.vercel.app](https://iwmvictor.vercel.app)  
-**Email:** [iwmvik@gmail.com](mailto:iwmvik@gmail.com)  
-**Repository:** [GitHub](https://github.com/iwmvictor/ira.git)
+**Author:** Yatharth 
+**Email:** [yatharthsingh1444@gmail.com](mailto:yatharthsingh1444@gmail.com)  
 
 ---
 
@@ -66,11 +64,11 @@ This script is ideal for:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/iwmvictor/ira.git
+    git clone https://github.com/yatharth1444/Fast-incidence-response.git
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd ira
+    cd fast_incidence_response
     ```
 3. **Ensure execution permissions:**
     ```bash
@@ -123,9 +121,9 @@ sudo ./isolate.sh remove <IP_ADDRESS>
 
 ## Security Considerations
 
-⚠️ **Use with caution:** Blocking the wrong IP could disrupt services.  
-⚠️ **Test before deployment:** Always test in a **controlled environment** before using in production.  
-⚠️ **Keep logs secured:** Attackers may attempt to tamper with log files.  
+ **Use with caution:** Blocking the wrong IP could disrupt services.  
+ **Test before deployment:** Always test in a **controlled environment** before using in production.  
+ **Keep logs secured:** Attackers may attempt to tamper with log files.  
 
 ---
 
@@ -150,7 +148,3 @@ sudo ./isolate.sh remove <IP_ADDRESS>
 Contributions are welcome! Feel free to **open issues**, suggest improvements, or submit **pull requests**.
 
 ---
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
